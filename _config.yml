@@ -46,8 +46,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # 第一个元素用作版权所有者的链接
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/JanusBots # change to your github homepage
+    - https://twitter.com/ # change to your twitter homepage
+    - https://github.com/ # change to your github homepage
     # Uncomment below to add more social links
       # 解除下面的注释以添加更多社交链接
     # - https://www.facebook.com/username
