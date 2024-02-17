@@ -32,7 +32,7 @@ description: >- # used by seo meta and the atom feed ；用于 SEO 元标签和 
 url: "https://janusbots.github.io"
 
 github:
-  username: JanusBots # change to your github username
+  username:  # change to your github username
 
 twitter:
   username:  # change to your twitter username
