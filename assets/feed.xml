@@ -10,6 +10,10 @@ permalink: /feed.xml
   <title>{{ site.title }}</title>
   <subtitle>{{ site.description }}</subtitle>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <follow_challenge>
+    <feedId>62467485859883008</feedId>
+    <userId>55132739615502336</userId>
+  </follow_challenge>
   <author>
     <name>{{ site.social.name }}</name>
     <uri>{{ "/" | absolute_url }}</uri>
