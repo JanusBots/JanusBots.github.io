@@ -22,8 +22,7 @@ title: Sommer # the main title  主标题
 tagline: Sommer's blog. # it will display as the sub-title  副标题
 
 description: >- # used by seo meta and the atom feed ；用于 SEO 元标签和 Atom Feed
-  # feedId:6264748585983808+userId:55132739615502336
-  三无
+  feedId:6264748585983808+userId:55132739615502336
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
